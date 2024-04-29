@@ -2,6 +2,7 @@ version: 2
 
 sources:
   - name: globalmart
+    description: A clone of snowflake table
     database: raw
     schema: global_mart
     tables:
